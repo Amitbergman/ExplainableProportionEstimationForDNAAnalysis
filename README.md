@@ -1,1 +1,1 @@
-# Explainable proportion estimation for DNA Analsis
+# Explainable proportion estimation for DNA analysis
