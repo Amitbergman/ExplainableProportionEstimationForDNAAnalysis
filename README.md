@@ -23,7 +23,7 @@ Requirements for running the GUI and the system on your **linux machine** (you c
 ### Work with the python code
 
 The important methods are:
-- Constructor (gets dataset, references) and runs the preProcessing of the proportion estimation maximum likelihood algorithm
+- Constructor (gets dataset, references) and runs the preProcessing (ComputeDataProbability) of the proportion estimation maximum likelihood algorithm
 - ``estimate_proportions`` - estimating the proportions of the dataset (after running the constructor)
 - ``estimate_shapley_value_for_read`` - returning for each data point in the dataset an explanation vector of the estimation of the scaled Shapley values (how the data point is influencing the output of the algorithm)
 -  ``generateCounterFactualMinimalSetToRemoveAndChangeMax`` - calculating a counter factual - meaning what is the minimal subset that removing it from the dataset would cause the dominant label to change.
