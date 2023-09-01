@@ -32,7 +32,7 @@ The important methods are:
 
 ### Run the project
 
-1. Clone this repo ``git clone https://github.com/Amitbergman/ExplaibableAncientDNAAnalysisTool.git``
+1. Clone this repo ``git clone https://github.com/Amitbergman/ExplainableProportionEstimationForDNAAnalysis.git``
 2. Run ``Jupyter lab`` in root directory.
 3. Run the ``Demo`` notebook for a step by step demonstration.
 4. Run the ``GUI`` notebook for the GUI that interacts with the system. 
