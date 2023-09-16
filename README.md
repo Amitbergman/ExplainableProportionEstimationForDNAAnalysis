@@ -10,7 +10,7 @@ These instructions will give you a copy of the project up and running on your lo
 
 ### Prerequisites
 
-Requirements for running the GUI and the system on your **linux machine** (you can use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) if you have a windows machine): 
+Requirements for running the GUI and the system on your **linux machine** (or use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) on a windows machine): 
 - [python](https://www.python.org/)
 - [Jupyter notebooks](https://jupyter.org/)
 - [biopython](https://biopython.org/)
