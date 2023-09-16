@@ -35,8 +35,9 @@ The important methods are:
 1. Clone this repo ``git clone https://github.com/Amitbergman/ExplainableProportionEstimationForDNAAnalysis.git``
 2. Run ``Jupyter lab`` in root directory.
 3. Run the ``Demo`` notebook for a step by step demonstration.
-4. Run the ``GUI`` notebook for the GUI that interacts with the system. 
-5. Choose a dataset to analyze from the datasets under the data directory.
+4. Run the ``GUI`` notebook for the GUI that interacts with the system.
+5. Run the ``UseCaseRealData`` notebook for a full execution example on real datasets. 
+6. Choose a dataset to analyze from the datasets under the data directory.
 
 ## Authors
   - **Amit Bergman**
