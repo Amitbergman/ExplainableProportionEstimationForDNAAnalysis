@@ -21,8 +21,7 @@ Requirements for running the GUI and the system on your **linux machine** (or us
 - [termcolor](https://anaconda.org/conda-forge/termcolor)
 
 ### Work with the python code
-
-The important methods are:
+The system is implemented in the ``explainablemaximumlikelihoodcalculator.py`` class, the important methods are:
 - Constructor (gets dataset, references) and runs the preProcessing (ComputeDataProbability) of the proportion estimation maximum likelihood algorithm
 - ``estimate_proportions`` - estimating the proportions of the dataset (after running the constructor)
 - ``estimate_shapley_value_for_read`` - returning for each data point in the dataset an explanation vector of the estimation of the scaled Shapley values (how the data point is influencing the output of the algorithm)
